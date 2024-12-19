@@ -6,10 +6,10 @@ import sqlite3
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Configuration
-BOT_TOKEN = "7943199028:AAGpD7gsqSiYozcIgAoXqEuP5pzHEzI8WCw"
-INSTAGRAM_USERNAME = "5tind"
-INSTAGRAM_PASSWORD = "HAPPY7742"
-ADMIN_ID = 6830127390  # Your Telegram ID as the owner
+BOT_TOKEN = ""
+INSTAGRAM_USERNAME = ""
+INSTAGRAM_PASSWORD = ""
+ADMIN_ID =  # Your Telegram ID as the owner
 
 # Initialize Instaloader
 L = instaloader.Instaloader()
